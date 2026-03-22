@@ -25,3 +25,5 @@ python3 -m pip install -r requirements.txt
 python3 realistic_battery.py --gui
 
 echo "Running Now!"
+
+trap 'cd "$prevdir"; echo "Thanks for using Realistic Battery!"; exit' INT
