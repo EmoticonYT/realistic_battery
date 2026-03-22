@@ -20,4 +20,4 @@ You can show your buddies that your phone is charged to 356 percent, or 9999 per
 
 # How to run (macOS/Linux Systems Only...)
 
-curl -LO https://raw.githubusercontent.com/EmoticonYT/realistic_battery/refs/heads/main/gui.sh; bash gui.sh; rm -rf gui.sh
+`curl -LO https://raw.githubusercontent.com/EmoticonYT/realistic_battery/refs/heads/main/gui.sh; bash gui.sh; rm -rf gui.sh`
