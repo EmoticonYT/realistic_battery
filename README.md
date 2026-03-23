@@ -2,7 +2,7 @@
 Control Android battery level realistically. What a cool party trick!
 
 > [!WARNING]
-> The quick run scripts only work on Linux and macOS. You will need to manually install Realistic Battery if yuo would like to use it on Windows.
+> The quick run scripts only work on Linux and macOS. You will need to manually install Realistic Battery if you would like to use it on Windows.
 
 > [!TIP]
 > Install ADB and Python3 to your PATH before running, or it won't work!
