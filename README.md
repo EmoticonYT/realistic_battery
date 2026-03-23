@@ -3,6 +3,7 @@ Control Android battery level realistically. What a cool party trick!
 
 > [!WARNING]
 > This only works on Linux and macOS!
+
 > [!TIP]
 > Install ADB and Python3 to your PATH before running, or it won't work!
 
