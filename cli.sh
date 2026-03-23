@@ -2,7 +2,7 @@
 
 echo "Starting Realistic Battery"
 
-read -p "Please install Python3 before running this script. If you get any cannot find "python3" or module not found "pip" errors, you may need to install Python or PipPress enter to continue..." pressentertocontinuevariablenotimportantdontcaredidntasklollmaostfuidc
+read -p "Please install Python3 before running this script. If you get any cannot find "python3" or module not found "pip" errors, you may need to install Python or Pip. Press enter to continue... " pressentertocontinuevariablenotimportantdontcaredidntasklollmaostfuidc
 
 prevdir="$PWD"
 
