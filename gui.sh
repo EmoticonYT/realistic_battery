@@ -20,7 +20,7 @@ curl -LO "https://raw.githubusercontent.com/EmoticonYT/realistic_battery/refs/he
 
 curl -LO "https://raw.githubusercontent.com/EmoticonYT/realistic_battery/refs/heads/main/realisticbattery/requirements.txt"
 
-python3 -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt --break-system-packages
 
 python3 realistic_battery.py --gui
 
